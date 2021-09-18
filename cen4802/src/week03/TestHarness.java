@@ -54,7 +54,7 @@ public class TestHarness
 		{
 			// read in the file into memory
 			//File employeeTestFile = new File("src/week03/EmployeeTest.java");
-			File employeeTestFile = new File("../src/EmployeeTest.java");
+			File employeeTestFile = new File("C:/Users/AAram/eclipse-work/CEN4802/school/cen4802/src/week03/EmployeeTest.java");
 			if(employeeTestFile.exists())
 			{
 				fileReader = new FileReader(employeeTestFile);
